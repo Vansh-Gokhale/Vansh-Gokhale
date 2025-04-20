@@ -73,6 +73,8 @@
 
 
 ![Vansh-Gokhale's Stats](https://github-readme-stats.vercel.app/api?username=Vansh-Gokhale&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+![Vansh-Gokhale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vansh-Gokhale&theme=outrun&hide_border=false)
+![Vansh-Gokhale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Gokhale&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
