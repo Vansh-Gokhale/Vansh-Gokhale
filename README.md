@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vansh! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F9&center=true&vCenter=true&multiline=true&width=600&lines=Developer+by+day+%E2%9A%99%EF%B8%8F+Builder+by+night+%F0%9F%92%A1;+Web3+Explorer+%F0%9F%94%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F9&center=true&vCenter=true&multiline=true&width=600&lines=Developer+by+day+%E2%9A%99%EF%B8%8F+Builder+by+night+%F0%9F%92%A1+Web3+Explorer+%F0%9F%94%8E" alt="Typing SVG" />
 </p>
 
 ---
