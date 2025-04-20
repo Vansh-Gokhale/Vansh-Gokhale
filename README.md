@@ -71,9 +71,8 @@
 
 > I don’t just write code – I **build experiences**, **explore tech frontiers**, and **grow with the community**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Yashraj's GitHub stats" />
-</p>
+
+![Vansh-Gokhale's Stats](https://github-readme-stats.vercel.app/api?username=Vansh-Gokhale&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
