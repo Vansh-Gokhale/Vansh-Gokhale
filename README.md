@@ -71,10 +71,6 @@
 
 > I don’t just write code – I **build experiences**, **explore tech frontiers**, and **grow with the community**.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Vansh-Gokhale?cardType=octocat&theme=outrun&preferLogin=true)](https://git.io/awesome-stats-card)
-![Vansh-Gokhale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vansh-Gokhale&theme=outrun&hide_border=false)
-![Vansh-Gokhale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Gokhale&theme=outrun&show_icons=true&hide_border=false&layout=compact)
-
 ---
 
 *Built with ❤️ by Vansh*
