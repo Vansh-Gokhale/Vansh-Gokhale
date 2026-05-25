@@ -6,8 +6,7 @@
 
 <!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00D2BE&center=true&vCenter=true&multiline=false&width=680&lines=⚡+FULL+THROTTLE+IN+WEB2+%26+WEB3;🏁+BUILDING+ON+REACT%2C+NEXT.JS+%26+SOLIDITY;🔧+NATIONAL+AIML+HACKATHON+WINNER;🏎️+DEVELOPER+BY+DAY%2C+BUILDER+BY+NIGHT" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00D2BE&center=true&vCenter=true&width=680&lines=FULL+THROTTLE+IN+WEB2+%26+WEB3;BUILDING+ON+REACT%2C+NEXT.JS+%26+SOLIDITY;NATIONAL+AIML+HACKATHON+WINNER;DEVELOPER+BY+DAY%2C+BUILDER+BY+NIGHT" alt="Typing SVG" />
 <br/>
 
 <!-- ═══════════════════ TEAL DIVIDER ═══════════════════ -->
