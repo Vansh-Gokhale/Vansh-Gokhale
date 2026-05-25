@@ -1,245 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=VANSH%20GOKHALE&fontSize=60&color=0:0D0D1F,100:1A0A3A&fontColor=FF1801&stroke=FF1801&strokeWidth=2&animation=twinkling&fontAlign=50&fontAlignY=55&desc=FULL-STACK%20%7C%20WEB3%20%7C%20BUILDER&descSize=16&descAlignY=75&descFontColor=ffffff" />
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,00D2BE&height=200&section=header&text=VANSH%20GOKHALE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20%7C%20Web3%20%7C%20Builder&descColor=00D2BE&descAlignY=58&animation=twinkling" />
 
-<br/>
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=FF1801&background=0D0D1F&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=55&lines=%F0%9F%8F%8E%EF%B8%8F+FULL+THROTTLE+ON+FULL-STACK+%F0%9F%8F%8E%EF%B8%8F;%E2%9A%99%EF%B8%8F+ENGINEERED+IN+WEB2+%26+WEB3;%F0%9F%94%A5+BUILDING+AT+300+KM%2FH;%F0%9F%8F%86+NATIONAL+LEVEL+AIML+WINNER" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00D2BE&center=true&vCenter=true&multiline=false&width=680&lines=⚡+FULL+THROTTLE+IN+WEB2+%26+WEB3;🏁+BUILDING+ON+REACT%2C+NEXT.JS+%26+SOLIDITY;🔧+NATIONAL+AIML+HACKATHON+WINNER;🏎️+DEVELOPER+BY+DAY%2C+BUILDER+BY+NIGHT" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
+<!-- ═══════════════════ TEAL DIVIDER ═══════════════════ -->
 
-![](https://img.shields.io/badge/TEAM-ORACLE%20RED%20BULL%20RACING-FF1801?style=for-the-badge&labelColor=0D0D1F&color=FF1801)
-&nbsp;
-![](https://img.shields.io/badge/CHASSIS-FULLSTACK%20RB21-1E3A6E?style=for-the-badge&labelColor=0D0D1F&color=1E3A6E)
-&nbsp;
-![](https://img.shields.io/badge/STATUS-IN%20RACE%20🟢-00C853?style=for-the-badge&labelColor=0D0D1F&color=00C853)
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        M E R C E D E S  —  A M G  —  P E T R O N A S
+          2 0 2 5  S E A S O N  //  V A N S H  4 4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 ---
 
 <div align="center">
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=9999&pause=9999&color=FF1801&center=true&vCenter=true&width=350&height=40&lines=%E2%96%BA+DRIVER+BRIEFING" />
-</h2>
+
+## 🏎️ &nbsp; `DRIVER PROFILE` &nbsp; 🏎️
+
 </div>
 
-```
+```yaml
 ╔══════════════════════════════════════════════════════════════╗
-║  DRIVER       : Vansh Gokhale                                ║
-║  POSITION     : Full-Stack Developer  #RBR                   ║
-║  CHASSIS      : React · Next.js · Solidity · Hardhat         ║
-║  ENGINE MODE  : Web2 + Web3 HYBRID                           ║
-║  RACE FUEL    : Hackathons, Open-Source, Problem Solving      ║
-║  FASTEST LAP  : AIML National Winner @ Sri SaiRam Engg       ║
-║  CURRENT RACE : Advanced Solidity + AI×Blockchain            ║
+║  DRIVER     :  Vansh Gokhale                                 ║
+║  TEAM       :  AMG Full-Stack Racing Division                ║
+║  CHASSIS    :  React.js / Next.js 14                         ║
+║  POWER UNIT :  Solidity + Hardhat (Web3 Hybrid)              ║
+║  TYRES      :  Python · Java · TypeScript · C++              ║
+║  BEST LAP   :  🏆 National AIML Paper Presentation Winner    ║
+║  STATUS     :  🟢 P1 — ACTIVELY BUILDING                     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=9999&pause=9999&color=FF1801&center=true&vCenter=true&width=400&height=40&lines=%E2%96%BA+TECHNICAL+SPECIFICATIONS" />
-</h2>
+
+## ⚙️ &nbsp;`TECH STACK — UNDER THE HOOD`
+
+<!-- Row 1: Frontend -->
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- Row 2: Frameworks -->
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<!-- Row 3: Web3 -->
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=ethereum&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+<!-- Row 4: Other Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 </div>
+
+---
 
 <div align="center">
 
-**⚙️ FRONTEND AERO PACKAGE**
+## 🏁 &nbsp;`RACE LOG — FEATURED PROJECTS`
 
-![HTML5](https://img.shields.io/badge/HTML5-FF1801?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1E3A6E?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E3A6E?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-FF1801?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0D0D1F?style=for-the-badge&logo=next.js&logoColor=FF1801)
+</div>
+
+> **Each project is a race. The finish line is shipping.**
+
+| 🏎️ Project | ⚙️ Stack | 🏆 Result |
+|---|---|---|
+| **[PRO-FIT: Health App](#)** | Next.js · Full-Stack | 🟢 SHIPPED |
+| **[NFT PATENT](#)** | Solidity · React · IPFS | 🔵 DU HACKS 4 SUBMISSION |
+| **[vote_web3](#)** | Hardhat · React · On-Chain | 🟢 DEPLOYED |
+| **Decentralized Music dApp** | NFT · OpenSea · Monetization | 🔧 IN THE GARAGE |
+
+---
+
+<div align="center">
+
+## 🏆 &nbsp;`CHAMPIONSHIP BOARD`
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🥇  AIML Smart Waste Management                            │
+│      National-Level Winning Paper — Sri SaiRam Engg College │
+│                                                             │
+│  🏁  Hackverse  |  DU Hacks 4  |  Hacker House GOA         │
+│  🌐  Builders Connect Chennai  |  Hackverse  |  + More      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## 📡 &nbsp;`TELEMETRY — WHAT I'M LEARNING`
+
+</div>
+
+```
+SECTOR 1  [ ████████░░ ]  Advanced Solidity & Smart Contract Security
+SECTOR 2  [ ███████░░░ ]  Next.js 14 App Router
+SECTOR 3  [ █████░░░░░ ]  AI × Blockchain Intersections
+SECTOR 4  [ ████░░░░░░ ]  IoT — IPv6, LPLNs & OneM2M Architecture
+```
+
+---
+
+<div align="center">
+
+## 📊 &nbsp;`PIT WALL — GITHUB STATS`
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vanshgokhale17&show_icons=true&theme=merko&bg_color=0d0d0d&title_color=00D2BE&icon_color=00D2BE&text_color=ffffff&border_color=00D2BE&hide_border=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgokhale17&layout=compact&theme=merko&bg_color=0d0d0d&title_color=00D2BE&text_color=ffffff&border_color=00D2BE" />
 
 <br/>
 
-**🔩 POWER UNIT — WEB3 STACK**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgokhale17&theme=dark&background=0d0d0d&ring=00D2BE&fire=00D2BE&currStreakLabel=00D2BE&border=00D2BE" />
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFD700)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFD700?style=for-the-badge&logo=ethereum&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-1E3A6E?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-FF1801?style=for-the-badge&logo=web3dotjs&logoColor=white)
+</div>
+
+---
+
+<div align="center">
+
+## 🛰️ &nbsp;`RACE CONTROL — CONNECT WITH ME`
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/vansh_gokhale17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gokhale-680ab1281/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshgokhale17@gmail.com)
 
 <br/>
 
-**🛠️ PIT CREW TOOLBOX**
-
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-FF1801?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1E3A6E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF1801?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D0D1F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
-
----
-
-<div align="center">
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=9999&pause=9999&color=FF1801&center=true&vCenter=true&width=350&height=40&lines=%E2%96%BA+RACE+RESULTS+%2F+PROJECTS" />
-</h2>
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏎️ `PRO-FIT` · Health Application
-> **Constructor:** Next.js · Full-Stack
->
-> A complete gym & fitness web platform built for performance. Clean laps, zero crashes.
->
-> ![Status](https://img.shields.io/badge/STATUS-FINISHED_P1-FF1801?style=flat-square&labelColor=0D0D1F)
-
-</td>
-<td width="50%">
-
-### 🏎️ `NFT PATENT` · DU Hacks 4
-> **Constructor:** Solidity · Smart Contracts
->
-> Decentralized idea-patenting via NFTs. Race-winning submission at DU Hacks 4.
->
-> ![Status](https://img.shields.io/badge/STATUS-PODIUM_FINISH-FFD700?style=flat-square&labelColor=0D0D1F)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏎️ `vote_web3` · On-Chain Voting
-> **Constructor:** Hardhat · React · Solidity
->
-> Fully decentralized voting system — transparent, tamper-proof, and fast.
->
-> ![Status](https://img.shields.io/badge/STATUS-RACE_COMPLETE-1E3A6E?style=flat-square&labelColor=0D0D1F)
-
-</td>
-<td width="50%">
-
-### 🏎️ `Music dApp` · NFT Ownership
-> **Constructor:** OpenSea API · Web3
->
-> NFT-powered music ownership with monetization. The music industry's new DRS.
->
-> ![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00C853?style=flat-square&labelColor=0D0D1F)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=9999&pause=9999&color=FF1801&center=true&vCenter=true&width=400&height=40&lines=%E2%96%BA+TROPHY+CABINET+%2F+ACHIEVEMENTS" />
-</h2>
-</div>
-
-<div align="center">
+<!-- ═══════════════════ FOOTER QUOTE ═══════════════════ -->
 
 ```
- 🏆  GRAND PRIX VICTORIES & EVENTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🥇  AIML Smart Waste Management
-       ↳ National-Level 1st Place — Sri SaiRam Engineering College
-
-  🏁  DU Hacks 4       →  NFT Patent submission
-  🏁  Hackverse         →  Competitive build sprint
-  🏁  Hacker House GOA  →  Builder residency
-  🏁  Builders Connect Chennai  →  Community & networking
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "  I don't just write code — I build experiences,
+      explore tech frontiers, and grow with the community.  "
+                              — Vansh Gokhale  🏎️
 ```
 
-</div>
+<!-- ═══════════════════ ACTIVITY SNAKE ═══════════════════ -->
 
----
-
-<div align="center">
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=9999&pause=9999&color=FF1801&center=true&vCenter=true&width=450&height=40&lines=%E2%96%BA+LIVE+TELEMETRY+%2F+GITHUB+STATS" />
-</h2>
-</div>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vanshgokhale17&show_icons=true&theme=dark&bg_color=0D0D1F&title_color=FF1801&icon_color=FFD700&text_color=ffffff&border_color=FF1801&border_radius=8&hide_border=false" />
-  &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgokhale17&layout=compact&theme=dark&bg_color=0D0D1F&title_color=FF1801&text_color=ffffff&border_color=FF1801&border_radius=8" />
-</div>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgokhale17&theme=dark&background=0D0D1F&ring=FF1801&fire=FFD700&currStreakLabel=FF1801&sideLabels=ffffff&dates=888888&border=FF1801&border_radius=8" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00D2BE,000000&height=100&section=footer&animation=twinkling" />
 
----
+<br/>
 
-<div align="center">
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=9999&pause=9999&color=FF1801&center=true&vCenter=true&width=450&height=40&lines=%E2%96%BA+NEXT+RACE+%2F+CURRENTLY+LEARNING" />
-</h2>
-</div>
-
-<div align="center">
-
-| 🔴 SECTOR | ⏱️ TARGET | 📡 STATUS |
-|:---:|:---:|:---:|
-| Advanced Solidity & Smart Contract Security | Q3 2025 | 🟡 IN PROGRESS |
-| Next.js 14 App Router | Q3 2025 | 🟡 IN PROGRESS |
-| AI × Blockchain Convergence | Q4 2025 | 🔵 QUALIFYING |
-| IoT with IPv6, LPWANs & OneM2M | Q4 2025 | 🔵 QUALIFYING |
-
-</div>
-
----
-
-<div align="center">
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=9999&pause=9999&color=FF1801&center=true&vCenter=true&width=350&height=40&lines=%E2%96%BA+TEAM+RADIO+%2F+CONTACT" />
-</h2>
-</div>
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/@vansh__gokhale17-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vansh_gokhale17)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Vansh_Gokhale-1E3A6E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gokhale-680ab1281/)
-&nbsp;
-[![Mail](https://img.shields.io/badge/vanshgokhale17@gmail.com-FF1801?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshgokhale17@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3000&pause=1000&color=FF1801&background=0D0D1F&center=true&vCenter=true&width=700&height=50&lines=I+don't+just+write+code+%E2%80%94+I+BUILD+EXPERIENCES+%F0%9F%8F%8E%EF%B8%8F;Explore+tech+frontiers+at+300+km%2Fh+%E2%9A%A1;Grow+with+the+community+%F0%9F%8C%8D" alt="Quote SVG" />
-
-</div>
-
-<div align="center">
-
-```
- ██████╗ ███████╗██████╗     ██████╗ ██╗   ██╗██╗     ██╗     
- ██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██║   ██║██║     ██║     
- ██████╔╝█████╗  ██║  ██║    ██████╔╝██║   ██║██║     ██║     
- ██╔══██╗██╔══╝  ██║  ██║    ██╔══██╗██║   ██║██║     ██║     
- ██║  ██║███████╗██████╔╝    ██████╔╝╚██████╔╝███████╗███████╗
- ╚═╝  ╚═╝╚══════╝╚═════╝     ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
-```
-
-*🏎️ Engineered with passion by Vansh · Powered by Oracle Red Bull Racing Spirit*
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vanshgokhale17&left_color=0D0D1F&right_color=FF1801&left_text=PIT%20LANE%20VISITORS)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vanshgokhale17.vanshgokhale17&left_color=black&right_color=00D2BE&left_text=Pit%20Lane%20Visitors)
 
 </div>
