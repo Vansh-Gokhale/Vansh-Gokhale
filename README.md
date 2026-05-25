@@ -122,8 +122,6 @@ SECTOR 4  [ ████░░░░░░ ]  IoT — IPv6, LPLNs & OneM2M Archi
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgokhale17&theme=dark&background=0d0d0d&ring=00D2BE&fire=00D2BE&currStreakLabel=00D2BE&border=00D2BE" />
-
 </div>
 
 ---
