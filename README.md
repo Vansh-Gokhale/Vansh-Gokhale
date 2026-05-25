@@ -125,7 +125,7 @@ SECTOR 4  [ ████░░░░░░ ]  IoT — IPv6, LPLNs & OneM2M Archi
 ## 📊 &nbsp;`PIT WALL — GITHUB STATS`
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=vanshgokhale17&show_icons=true&theme=merko&bg_color=0d0d0d&title_color=00D2BE&icon_color=00D2BE&text_color=ffffff&border_color=00D2BE&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgokhale17&layout=compact&theme=merko&bg_color=0d0d0d&title_color=00D2BE&text_color=ffffff&border_color=00D2BE" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gokhale&layout=compact&theme=merko&bg_color=0d0d0d&title_color=00D2BE&text_color=ffffff&border_color=00D2BE" />
 
 <br/>
 
