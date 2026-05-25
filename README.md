@@ -1,176 +1,221 @@
-<div align="center">
-
-<!-- STAR WARS CRAWL BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,FFE81F&height=200&section=header&text=A%20long%20time%20ago%2C%20in%20a%20galaxy%20far%2C%20far%20away...&fontSize=20&fontColor=FFE81F&fontAlignY=40&desc=Vansh%20Gokhale%20%7C%20Full-Stack%20%26%20Web3%20Developer&descSize=22&descAlignY=65&descColor=FFFFFF" />
-
-</div>
+<!-- STAR WARS THEMED README — Vansh Gokhale -->
 
 <div align="center">
 
 ```
-██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
-██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
-██║   ██║███████║██╔██╗ ██║███████╗███████║
-╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
- ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+    .          .          .          .          .          .
+  .   *    .        .             .        .    *   .        .
+      .          .          .          .          .          .
+  .       .          .          .          .          .
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FFE81F&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⚔️+Master+of+the+Full-Stack+Order;🌌+Web3+Jedi+%7C+Builder+of+Galaxies;💡+May+the+Code+Be+With+You" alt="Typing SVG" />
-
-[![Followers](https://img.shields.io/github/followers/vanshgokhale?label=Padawans&style=flat&color=FFE81F&labelColor=000000&logo=github)](https://github.com/vanshgokhale)
-[![Stars](https://img.shields.io/github/stars/vanshgokhale?label=Force+Points&style=flat&color=FFE81F&labelColor=000000&logo=star)](https://github.com/vanshgokhale)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=13&duration=2000&pause=500&color=FFE81F&center=true&vCenter=true&width=700&lines=A+long+time+ago+in+a+terminal+far%2C+far+away....&repeat=false" />
 
 </div>
-
----
-
-## 🌌 The Jedi Archives — About Me
-
-> *"Your focus determines your reality."* — Qui-Gon Jinn
-
-```yaml
-Name        : Vansh Gokhale
-Class       : Full-Stack Developer  |  Web3 Builder  |  Open-Source Knight
-Homeworld   : India, Earth, Milky Way Galaxy
-Current Arc : Web2 + Web3 Convergence
-Lightsaber  : React ⚔️ Next.js ⚔️ Solidity ⚔️ Hardhat
-Force Rank  : Jedi Knight (still leveling up 🚀)
-Allegiance  : Open-Source  |  Hackathons  |  Problem Solving
-Active Quest: AI × Blockchain × IoT Nexus
-```
-
-<details>
-<summary>📜 <strong>Expand the Holocron — Full Lore</strong></summary>
 
 <br/>
 
-- 🔭 **Full-stack developer** diving deep into **Web2 + Web3** tech
-- ⚒️ Currently wielding **React**, **Next.js**, **Solidity**, and **Hardhat**
-- 🏆 **National-level winner** — AIML paper at **Sri SaiRam Engineering College**
-- 🧠 Exploring the convergence of **IoT**, **AI**, and **Blockchain** like a true Jedi
-- 🌐 Battle-tested at **Builders Connect**, **DU Hacks 4**, **Hackverse**, **Hacker House GOA**
+<div align="center">
 
-</details>
+```
+███████╗████████╗ █████╗ ██████╗      ██╗    ██╗ █████╗ ██████╗ ███████╗
+██╔════╝╚══██╔══╝██╔══██╗██╔══██╗     ██║    ██║██╔══██╗██╔══██╗██╔════╝
+███████╗   ██║   ███████║██████╔╝     ██║ █╗ ██║███████║██████╔╝███████╗
+╚════██║   ██║   ██╔══██║██╔══██╗     ██║███╗██║██╔══██║██╔══██╗╚════██║
+███████║   ██║   ██║  ██║██║  ██║     ╚███╔███╔╝██║  ██║██║  ██║███████║
+╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FFE81F&center=true&vCenter=true&multiline=true&width=700&height=80&lines=VANSH+GOKHALE+%7C+JEDI+CODE+MASTER;Full-Stack+%E2%9A%94%EF%B8%8F+%7C+Web3+Warrior+%F0%9F%94%97+%7C+Builder+of+Worlds+%F0%9F%8C%8C" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## ⚔️ Arsenal of the Force — Tech Stack
+<div align="center">
 
-### 🌐 The Web Disciplines
+*"Do. Or do not. There is no `try { } catch { }`."*
+— **Yoda** *(probably)*
+
+</div>
+
+---
+
+## 🌌 Episode I — The Developer Awakens
+
+> *In a universe of semicolons and stack traces, one developer dares to build what others only dream of. Armed with a keyboard and an insatiable curiosity, **Vansh** traverses the realms of Web2 and Web3 — deploying smart contracts to the blockchain like firing proton torpedoes into an exhaust port.*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  JEDI MASTER FILE — VANSH GOKHALE                               │
+│  STATUS       : ACTIVE — BUILDING AT ALL HOURS ⚡               │
+│  AFFILIATION  : The Open Source Rebellion 🛸                    │
+│  SPECIALITY   : Full-Stack + Blockchain Jedi Arts               │
+│  MIDI-CHLORIANS: Off the charts (hackathon wins confirm this)  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+- ⚔️ **Full-stack developer** wielding **React**, **Next.js**, **Solidity** & **Hardhat**
+- 🛰️ Exploring the outer rim of **Web3**, **IoT**, and **AI × Blockchain** convergence
+- 🏆 **National-level AIML winner** @ Sri SaiRam Engineering College — *The Force was strong*
+- 🌌 Rebel at **Hackverse**, **Hacker House GOA**, **Builders Connect**, **DU Hacks 4**, and beyond
+- 🔭 On a quest to merge **smart cities**, **decentralized platforms**, and **real-world impact**
+
+---
+
+## ⚔️ Episode II — The Arsenal of a Jedi
+
+> *Every Jedi has their lightsaber. Mine is a full-stack toolkit — forged in hackathon fire.*
+
+### 🌐 The Force of the Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFE81F)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🔮 The Dark Side — Web3 & Smart Contracts
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFE81F)
+### 🔗 The Dark Side of the Chain (Web3)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### 🛡️ Classic Weapons — Backend & Systems
+### 🤖 The Droid Workshop (Languages)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 🛸 The Mission Logs — Featured Projects
+## 🚀 Episode III — Missions Completed
 
-| Mission | Codename | Tech Used | Status |
-|--------|----------|-----------|--------|
-| 💪 Health & Fitness Platform | **PRO-FIT** | Next.js, Full-Stack | ✅ Deployed |
-| 🎨 Idea Ownership via NFTs | **NFT PATENT** | Solidity, React, DU Hacks 4 | ✅ Submitted |
-| 🗳️ On-Chain Democracy | **vote_web3** | Hardhat, React, Solidity | ✅ Live |
-| 🎵 Decentralized Music Empire | **Music dApp** | NFTs, OpenSea, Web3 | ✅ Building |
-
-<details>
-<summary>🔍 <strong>Mission Briefings — Click to Expand</strong></summary>
-
-<br/>
-
-**🏋️ PRO-FIT: A Health Application**
-> Full-stack gym website engineered with **Next.js**. Tracks fitness journeys across the galaxy.
-
-**🧾 NFT PATENT**
-> Decentralized platform to patent ideas using **NFTs** — submitted at **DU Hacks 4**. Protecting intellectual property, one block at a time.
-
-**🗳️ vote_web3**
-> Fully on-chain voting system — no central authority, just code and consensus via **Hardhat** + React.
-
-**🎵 Decentralized Music dApp**
-> NFT-based music ownership with **OpenSea integration** and direct monetization for artists. The music industry will never be the same.
-
-</details>
-
----
-
-## 🏆 The Hall of Victories
+> *"These aren't the bugs you're looking for."*
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  🥇  AIML Smart Waste Management                     ║
-║      National-Level Winner — Sri SaiRam Engineering  ║
-╠══════════════════════════════════════════════════════╣
-║  ⚡  DU Hacks 4        →  NFT Patent Submission      ║
-║  🌊  Hackverse         →  Builder & Hacker           ║
-║  🏠  Hacker House GOA  →  Web3 Builder in Residence  ║
-║  🌏  Builders Connect Chennai  →  Community Warrior  ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  REBEL INTELLIGENCE — MISSION DOSSIERS                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🏋️  PRO-FIT: HEALTH APPLICATION                                ║
+║      Full-stack gym platform — Built with the power of Next.js  ║
+║      [ STATUS: DEPLOYED ✅ ]                                     ║
+║                                                                  ║
+║  🎨  NFT PATENT                                                  ║
+║      Decentralized idea-patenting platform — DU Hacks 4         ║
+║      "Your ideas, immutably yours on-chain."                     ║
+║      [ STATUS: SUBMITTED ✅ ]                                    ║
+║                                                                  ║
+║  🗳️  VOTE_WEB3                                                   ║
+║      On-chain voting system — Hardhat + React                   ║
+║      "Democracy, but trustless."                                 ║
+║      [ STATUS: LIVE ✅ ]                                         ║
+║                                                                  ║
+║  🎵  DECENTRALIZED MUSIC dAPP                                    ║
+║      NFT-based music ownership w/ OpenSea integration           ║
+║      "The artist always gets their credits. Always."            ║
+║      [ STATUS: BUILT ✅ ]                                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 📡 Transmissions Incoming — Currently Training
+## 🏅 Episode IV — A New Trophy
 
-- ⚡ Advanced **Solidity** & smart contract security auditing
-- 🚀 **Next.js 14 App Router** — mastering the server side
-- 🤖 **AI × Blockchain** intersections — the future is convergent
-- 🌐 IoT optimization with **IPv6**, **LPLNs**, and **OneM2M** architecture
+> *"The Rebellion runs on open source and overclocked CPUs."*
+
+```
+  🥇  NATIONAL WINNER
+      AIML Smart Waste Management Paper
+      @ Sri SaiRam Engineering College
+      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🛸  EVENTS ATTENDED ACROSS THE GALAXY
+      ├── Hackverse
+      ├── Hacker House GOA
+      ├── Builders Connect — Chennai
+      └── DU Hacks 4
+```
 
 ---
 
-## 📊 Force Power Levels
+## 📡 Episode V — The Training Continues
+
+> *A Jedi never stops learning. Neither does this developer.*
+
+```
+  CURRENT TRAINING MODULES:
+  ═══════════════════════════════════════════════════════════════
+  [████████████░░░░]  Advanced Solidity & Smart Contract Security
+  [███████████░░░░░]  Next.js 14 App Router
+  [████████░░░░░░░░]  AI × Blockchain Convergence
+  [██████░░░░░░░░░░]  IoT: IPv6, LPLNs & OneM2M Architecture
+  ═══════════════════════════════════════════════════════════════
+
+  "Train yourself to let go of everything you fear to ship."
+```
+
+---
+
+## 📊 Episode VI — Battle Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshgokhale&show_icons=true&theme=chartreuse-dark&border_color=FFE81F&title_color=FFE81F&icon_color=FFE81F&bg_color=000000)
+![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshgokhale&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=FFE81F&icon_color=FFE81F&text_color=CCCCCC&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgokhale&layout=compact&theme=chartreuse-dark&border_color=FFE81F&title_color=FFE81F&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgokhale&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=FFE81F&text_color=CCCCCC&bg_color=0D1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vanshgokhale&theme=dark&ring=FFE81F&fire=FFE81F&currStreakLabel=FFE81F&background=000000&border=FFE81F)
+![GitHub Streak](https://streak-stats.demolab.com?user=vanshgokhale&theme=dark&hide_border=true&fire=FFE81F&ring=FFE81F&currStreakLabel=FFE81F&background=0D1117)
 
 </div>
 
 ---
 
-## 📡 Holo-Transmitters — Connect with Me
+## 🌠 Episode VII — Transmit on All Frequencies
+
+> *"Help me, open-source community. You're my only hope."*
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-@vansh__gokhale17-000000?style=for-the-badge&logo=x&logoColor=FFE81F)](https://x.com/vansh_gokhale17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Gokhale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gokhale-680ab1281/)
-[![Email](https://img.shields.io/badge/Email-vanshgokhale17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshgokhale17@gmail.com)
+[![Twitter](https://img.shields.io/badge/@vansh__gokhale17-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vansh_gokhale17)
+[![LinkedIn](https://img.shields.io/badge/Vansh_Gokhale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gokhale-680ab1281/)
+[![Email](https://img.shields.io/badge/vanshgokhale17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshgokhale17@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ The Jedi Creed
+## ⚡ The Jedi Code (Revised for Developers)
 
-> *"I don't just write code —*
-> *I build experiences, explore tech frontiers,*
-> *and grow with the community.*
-> *The Force is strong in this one."* 🌌
+```
+  There is no bug,            there is a feature.
+  There is no merge conflict, there is git history.
+  There is no 404,            there is redirection.
+  There is no crash,          there is a restart.
+
+  I am a developer.
+  I build. I break. I debug. I ship.
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,FFE81F,000000&height=120&section=footer&text=May+the+Code+Be+With+You&fontSize=20&fontColor=FFE81F&fontAlignY=65" />
+```
+           /\
+          /  \
+         / /\ \
+        /_/  \_\
+        ||    ||
+        ||    ||
+        ||    ||
+    ~~~~||~~~~||~~~~
+```
 
-*Built with ⚔️ and the Force by **Vansh Gokhale***
+*"May the `git push` be with you, always."*
+
+**Built with ❤️ and the Force by Vansh** · *In a galaxy not so far away*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=vanshgokhale&style=for-the-badge&color=FFE81F&label=REBEL+VISITORS)
 
 </div>
